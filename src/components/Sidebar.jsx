@@ -6,52 +6,52 @@ import { useEffect } from "react";
 
 const menuItems = [
   {
-    icon: "/src/assets/images/sidebar/home.png",
+    icon: "/images/sidebar/home.png",
     text: "Dashboard",
     path: "/dashboard/home",
   },
   {
-    icon: "/src/assets/images/sidebar/person.png",
+    icon: "/images/sidebar/person.png",
     text: "Artist Management",
     path: "/dashboard/artist-management",
   },
   {
-    icon: "/src/assets/images/sidebar/music.png",
+    icon: "/images/sidebar/music.png",
     text: "Content Moderation",
     path: "/dashboard/content-moderation",
   },
   {
-    icon: "/src/assets/images/sidebar/wallet.png",
+    icon: "/images/sidebar/wallet.png",
     text: "Financial Management",
     path: "/dashboard/financial-management",
   },
   {
-    icon: "/src/assets/images/sidebar/chart.png",
+    icon: "/images/sidebar/chart.png",
     text: "Platform Analytics",
     path: "/dashboard/platform-analytics",
   },
   {
-    icon: "/src/assets/images/sidebar/support.png",
+    icon: "/images/sidebar/support.png",
     text: "Help & Notification",
     path: "/dashboard/help-notification",
   },
   {
-    icon: "/src/assets/images/sidebar/reports.png",
+    icon: "/images/sidebar/reports.png",
     text: "Content Insights & Reports",
     path: "/dashboard/content-insights",
   },
   {
-    icon: "/src/assets/images/sidebar/settings.png",
+    icon: "/images/sidebar/settings.png",
     text: "Integration & Configuration",
     path: "/dashboard/integration-configuration",
   },
   {
-    icon: "/src/assets/images/sidebar/subscription.png",
+    icon: "/images/sidebar/subscription.png",
     text: "Subscription Management",
     path: "/dashboard/subscription-management",
   },
   {
-    icon: "/src/assets/images/sidebar/security.png",
+    icon: "/images/sidebar/security.png",
     text: "Security & Privacy",
     path: "/dashboard/security-privacy",
   },
